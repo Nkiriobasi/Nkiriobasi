@@ -47,6 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true" />
 </picture>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&locale=en" alt="nkiriobasi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkiriobasi&layout=compact" alt="nkiriobasi" />
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkiriobasi&show_icons=true&locale=en&layout=compact" alt="nkiriobasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&locale=en" alt="nkiriobasi" /></p>

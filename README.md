@@ -33,5 +33,5 @@
   <img width=390 height=164 src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="streak stats"/>
     <br/>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkiriobasi&show_icons=true&theme=react&locale=en&layout=compact&border_radius=10" alt="nkiriobasi" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkiriobasi&show_icons=true&theme=react&locale=en&layout=compact&border_radius=10" alt="nkiriobasi" />
 </div>

@@ -44,10 +44,9 @@
     srcset="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&theme=radical" />
 </picture>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&locale=en" alt="nkiriobasi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkiriobasi&layout=compact" alt="nkiriobasi" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkiriobasi&show_icons=true&locale=en&layout=compact" alt="nkiriobasi" /></p>

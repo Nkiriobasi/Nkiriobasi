@@ -37,6 +37,7 @@
 
 <div align=center>
   <img width=390 height=164 src="https://streak-stats.demolab.com/?user=nkiriobasi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=164 src="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=nkiriobasi&show_icons=true&theme=react&border_radius=10"

@@ -1,8 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nkiri+Obasi!;" />
 </h1>
-
- <hr/>
  
 <h3 align="center">Frontend Engineer</h3>
 
@@ -21,20 +19,6 @@
  <hr/>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nkiriobasi&label=Profile%20views&color=0e75b6&style=flat" alt="nkiriobasi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/@nkiriobasi" target="blank"><img src="https://img.shields.io/twitter/follow/@nkiriobasi?logo=twitter&style=for-the-badge" alt="@nkiriobasi" /></a> </p>
-
-- 🌱 I’m currently learning **Node JS**
-
-- 👨‍💻 All of my projects are available at [https://nkiriobasi.vercel.app/](https://nkiriobasi.vercel.app/)
-
-- 📫 How to reach me **obasinkiri@gmail.com**
-
-- 📄 Know about my experiences [https://nkiriobasi.github.io/resume/](https://nkiriobasi.github.io/resume/)
-
-- ⚡ Fun fact **I am an interesting person to work with.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -24,7 +24,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,next" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,next,reduxtoolkit" />
 </div>
 
 <hr/>
